@@ -1,0 +1,22 @@
+span {
+    color: grey;
+    margin-bottom: auto;
+    margin-top: 12pt;
+}
+
+h2 {
+    align-self: center;
+    color: ghostwhite;
+}
+
+#start-date {
+    padding-left: 14pt;
+}
+
+#end-date {
+    padding-left: 14pt;
+}
+
+.row {
+    margin-bottom: 90pt;
+}
